@@ -1,0 +1,45 @@
+.pp1 { 
+    height: calc(100vh - 70px); 
+    width: 100%; 
+    overflow-y: scroll; 
+    overflow-x: hidden; 
+    padding: 40px 30px 30px 30px; 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    } 
+    .p1{
+        background-color: white;
+        margin: 3%;
+        padding: 5%;
+        height: 54%;
+        width: 40%;
+
+    }
+    .cmmain{
+            margin-top: 2%;
+            margin-left: 7%;
+            padding: 0 10px;
+            background-color: #fff;
+            width:60%;
+            margin-bottom: 3%;
+            
+            
+    }
+    .co{
+       display: flex; 
+       padding: 15px;
+       justify-content: space-between;
+
+    }
+    .co .input-box{
+      margin:2px 5px;
+    }
+    /*.cmmain .card {
+        background-color: #fff;
+        border-radius: 18px;
+        box-shadow: 1px 1px 8px 0 grey;
+        height: auto;
+        margin-bottom: 20px;
+        padding: 20px 0 20px 50px;
+    }*/
